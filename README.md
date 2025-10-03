@@ -41,8 +41,8 @@ I’m passionate about **Web Development, AI/ML, and Problem Solving**. I love b
 
 ## 📫 Connect With Me  
 - 📧 Email: **yuvrajbedwal2002@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com) *(add your link)*  
-- 🌐 Portfolio: *(add when ready)*  
+- 💼 [LinkedIn](https://linkedin.com)   
+- 🌐 Portfolio: 
 
 ---
 
